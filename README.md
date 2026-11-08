@@ -1,6 +1,6 @@
-# 이나즈마 일레븐 2 NDS 한국어 패치 v1.0
+# 이나즈마 일레븐 2 NDS 한국어 패치 v1.0.1
 
-배포일: 2026-11-07\
+배포일: 2026-11-08\
 대상: イナズマイレブン2 ～脅威の侵略者～ 일본판 Rev 1 — 블리자드(BEBJ)·파이어(BEEJ), revision 1
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다. 블리자드와 파이어는 패치가 따로 있으니 가진 버전에 맞는 BPS를 쓰세요.
@@ -18,18 +18,19 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-Blizzard-KO-v1.0.nds | 268,435,456 | 80d90abbde1b51d3c4c58e1883530fc5134f1f73fb618aa7eefe9cb1e15ce15f |
-| InazumaEleven2-Fire-KO-v1.0.nds | 268,435,456 | 177af9b0baf621ad5c57b79132233aca96030251c71bae6bb8779dac3915540e |
+| InazumaEleven2-Blizzard-KO-v1.0.1.nds | 268,435,456 | 5f5ab96fb8b0bf13e11c4e544e6e63ec1e820d1cd96abb921e195fa969ad1211 |
+| InazumaEleven2-Fire-KO-v1.0.1.nds | 268,435,456 | 7b6b56bbcd32bc8644a63742c2a90559175f343b1febd7ed2a5627b756946ddb |
 
-결과 SHA-1: 블리자드 `4b0cf83c3b8946cd285469e2c5a2ac4340954cd6`, 파이어 `d50344a55d6a7aa511bf37a1521918f1b2112abb` (2026-11-07 마지막 통합 빌드와 동일)
+결과 SHA-1: 블리자드 `68f531e286efe79ae89a1bd8436e73d1a3dde704`, 파이어 `0e21b79bb9d114dee2035e2138bf73b75cd8ff67` (2026-11-08 약칭 맞춤 빌드와 동일 · v1.0의 모든 내용 포함)
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-KO-v1.0.zip | 21,619,394 | df4a1ffe18ed5447ea282b1d422c1293d956090145116a24512596666264bbd0 |
-| InazumaEleven2-Blizzard-KO-v1.0.bps | 20,738,496 | 42e5d72d0964016564020c119d3ed70e5df4ac21e7742a6d7b0c5679c2f4f06e |
-| InazumaEleven2-Fire-KO-v1.0.bps | 20,690,900 | 1a6723ba3df9ec629be03e43501e9328962fdab1077338ff9992120856e9bfd0 |
+| InazumaEleven2-KO-v1.0.1.zip | 21,641,664 | d5b78116b0d30349c8ea4e4703dc1e591f3d35a2df44553f90f1056243d07349 |
+| InazumaEleven2-Blizzard-KO-v1.0.1.bps | 20,738,496 | 2b4a5df8eb3f1382146fc66aa58c280e0bdd479aecb04b6c18f9c27f85303626 |
+| InazumaEleven2-Fire-KO-v1.0.1.bps | 20,760,431 | eee55d95b26f5929feeb6417d1cfec840b666c4032913ed537b11c828248ad66 |
+
 
 ZIP에는 두 버전의 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
 
