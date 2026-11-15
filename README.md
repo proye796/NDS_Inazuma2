@@ -1,6 +1,6 @@
-# 이나즈마 일레븐 2 NDS 한국어 패치 v1.0.1
+# 이나즈마 일레븐 2 NDS 한국어 패치 v1.0.2
 
-배포일: 2026-11-08\
+배포일: 2026-11-15\
 대상: イナズマイレブン2 ～脅威の侵略者～ 일본판 Rev 1 — 블리자드(BEBJ)·파이어(BEEJ), revision 1
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다. 블리자드와 파이어는 패치가 따로 있으니 가진 버전에 맞는 BPS를 쓰세요.
@@ -18,21 +18,18 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-Blizzard-KO-v1.0.1.nds | 268,435,456 | 5f5ab96fb8b0bf13e11c4e544e6e63ec1e820d1cd96abb921e195fa969ad1211 |
-| InazumaEleven2-Fire-KO-v1.0.1.nds | 268,435,456 | 7b6b56bbcd32bc8644a63742c2a90559175f343b1febd7ed2a5627b756946ddb |
+| InazumaEleven2-Blizzard-KO-v1.0.2.nds | 268,435,456 | 4b937566e85e4bd47b9b3eb84e1cee2942dd7ceaa74cc7b894e85c276c7d5230 |
+| InazumaEleven2-Fire-KO-v1.0.2.nds | 268,435,456 | fb8ddce9555f60acd0907f6ec3039f4aad2811a4785c2d0135df73deebfcf632 |
 
-결과 SHA-1: 블리자드 `68f531e286efe79ae89a1bd8436e73d1a3dde704`, 파이어 `0e21b79bb9d114dee2035e2138bf73b75cd8ff67` (2026-11-08 약칭 맞춤 빌드와 동일 · v1.0의 모든 내용 포함)
+결과 SHA-1: 블리자드 `a3665cb88875850271528d5c33434ee4c1b5fd09`, 파이어 `4106f967e10d79022e587abd5eb06b684bfaba35`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-KO-v1.0.1.zip | 21,641,664 | d5b78116b0d30349c8ea4e4703dc1e591f3d35a2df44553f90f1056243d07349 |
-| InazumaEleven2-Blizzard-KO-v1.0.1.bps | 20,738,496 | 2b4a5df8eb3f1382146fc66aa58c280e0bdd479aecb04b6c18f9c27f85303626 |
-| InazumaEleven2-Fire-KO-v1.0.1.bps | 20,760,431 | eee55d95b26f5929feeb6417d1cfec840b666c4032913ed537b11c828248ad66 |
-
-
-ZIP에는 두 버전의 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
+| InazumaEleven2-KO-v1.0.2.zip | 21,641,972 | 2516cb62afd715f8a1178a757ccc07eaf0674b51d54a5d0d2bbbc52dc87a661a |
+| InazumaEleven2-Blizzard-KO-v1.0.2.bps | 20,738,496 | 2838bf5611fee61aca1104aff55385e4e8708580c0a1864baa696734ed48ae65 |
+| InazumaEleven2-Fire-KO-v1.0.2.bps | 20,760,431 | 506eaafba46edaef471bf0f735dde8d1daa5952e40eeb951acacb6c06579962b |
 
 ## 추가 기능
 
