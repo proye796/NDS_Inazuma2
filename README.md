@@ -1,4 +1,4 @@
-# 이나즈마 일레븐 2 NDS 한국어 패치 v1.0.3.1
+# 이나즈마 일레븐 2 NDS 한국어 패치 v1.0.3.2
 
 배포일 2026-11-16\
 대상: イナズマイレブン2 ～脅威の侵略者～ 일본판 Rev 1 — 블리자드(BEBJ)·파이어(BEEJ), revision 1
@@ -18,18 +18,18 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-Blizzard-KO-v1.0.3.1.nds | 268,435,456 | ea265f992b8a830fa4ca7360eafe743e3ae4615585ce845edaf9b7efb54a695b |
-| InazumaEleven2-Fire-KO-v1.0.3.1.nds | 268,435,456 | 91a88f79e94e78551a1ed0e4dd4ed8f5e0992f3366693f1bf481d2d5b7c301a5 |
+| InazumaEleven2-Blizzard-KO-v1.0.3.2.nds | 268,435,456 | 62230f818fb0df6734e3486172111b769a96a6a94a65d72ad93e23f72f960f4d |
+| InazumaEleven2-Fire-KO-v1.0.3.2.nds | 268,435,456 | e278ce5f7b9194c612807e1314324e8cd0047a24945b0ea171e2391391f69c54 |
 
-결과 SHA-1: 블리자드 `1baf9187216d3cb878d1d7329b9f6d0519710c0e`, 파이어 `7c8ac10a8b102d2e82763461e010d958c87cf29e`
+결과 SHA-1: 블리자드 `51a50f399ea93871d7b0243dfade844346825305`, 파이어 `f1b3b2a3b3284fec92172d86278b3aa84d453894`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-KO-v1.0.3.1.zip | 21,639,667 | e6dbf81dff0b3cecee1cd2c66d656125708ef6754279b92df02ebd8efac27b00 |
-| InazumaEleven2-Blizzard-KO-v1.0.3.1.bps | 20,746,184 | e554b7c6e3628b54dbc71ab267105446275dbbfe6eb2bea3f28d6578502288fc |
-| InazumaEleven2-Fire-KO-v1.0.3.1.bps | 20,768,119 | a68da3b67dab793b39ee9f0c1e5593fd17724b65796c855d752e0c1ee55d33d4 |
+| InazumaEleven2-KO-v1.0.3.2.zip | 21,640,481 | c418db54943050e605080d790fc5f6def02c98102c1f29864b4e7d049b08950b |
+| InazumaEleven2-Blizzard-KO-v1.0.3.2.bps | 20,746,184 | bc78bd1892ec45ff08d37e9213e5bff682bbac00559b001da342edc14a820230 |
+| InazumaEleven2-Fire-KO-v1.0.3.2.bps | 20,768,119 | 0b56f0986c9bb7bf0da61075f0dca273e67192bd034d4054dee804c71033a4fb |
 
 ZIP에는 두 버전의 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
 
