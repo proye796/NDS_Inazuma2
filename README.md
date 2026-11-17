@@ -1,6 +1,6 @@
-# 이나즈마 일레븐 2 NDS 한국어 패치 v1.0.4
+# 이나즈마 일레븐 2 NDS 한국어 패치 v1.0.4.1
 
-배포일 2026-11-17\
+배포일 2026-11-18\
 대상: イナズマイレブン2 ～脅威の侵略者～ 일본판 Rev 1 — 블리자드(BEBJ)·파이어(BEEJ), revision 1
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다. 블리자드와 파이어는 패치가 따로 있으니 가진 버전에 맞는 BPS를 쓰세요.
@@ -18,21 +18,20 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-Blizzard-KO-v1.0.4.nds | 268,435,456 | 46fb45763e0db97b2cccc1abd2ee452dee354ea7c1ee32c123505ee613cece47 |
-| InazumaEleven2-Fire-KO-v1.0.4.nds | 268,435,456 | 5b1c11a8a276ebba51b5797e8130b45c760a59d46b4e91c5d7ec770450686534 |
+| InazumaEleven2-Blizzard-KO-v1.0.4.1.nds | 268,435,456 | 5043e2e052ab84edc18693f80d6d9fc7e5c4b7a7394e076ecde23e1ba9fa9e9d |
+| InazumaEleven2-Fire-KO-v1.0.4.1.nds | 268,435,456 | 9dbc378face09e439b64982ea7c78d2aa07981cf562bd5b2de4a141b518c22b9 |
 
-결과 SHA-1: 블리자드 `ecf1b67066159c1b1f22d02637f84ebedb35cd3a`, 파이어 `d7f8e2e193f5b1ac5d31f7b7b732e1bcaafbece7`
+결과 SHA-1: 블리자드 `32f481c603b401d9fa1d0b6010fe2501a07c9cc6`, 파이어 `40dc48ea78157ed24dc57b82dc587357e380eb33`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-KO-v1.0.4.zip | 21,640,715 | 83a3284f5b50b7ba4df6a5209fadb0eb341d3905ff42c0af284c84061dc1247e |
-| InazumaEleven2-Blizzard-KO-v1.0.4.bps | 20,746,184 | bd9f9affd410a5167f2e1b51707ea7ab21bc60777a49441ca216443ced5eb594 |
-| InazumaEleven2-Fire-KO-v1.0.4.bps | 20,768,119 | 17c08c761cf96a6b077b1dffa325359e3890413cf3dc87f510193ea3f50d4e7c |
+| InazumaEleven2-KO-v1.0.4.1.zip | 21,591,973 | a965e1dc150039ff4de22a97038ff510b34afcb2d721500bf72cd38b269ccb47 |
+| InazumaEleven2-Blizzard-KO-v1.0.4.1.bps | 20,751,303 | 52d95ed3eeba4cfadd21de4c60c63c92d427caba6da2e76a32426f00d6660bde |
+| InazumaEleven2-Fire-KO-v1.0.4.1.bps | 20,710,775 | e9de32dcdb039082b1e7a03595edcee38b1e7b4d71d43baecf4bdcf839a10024 |
 
 ZIP에는 두 버전의 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
-
 ## 추가 기능
 
 통신이나 지금은 끝난 배포가 있어야 얻을 수 있던 요소를 혼자서 얻을 수 있게 했습니다. 자동으로 주는 것은 없고, 구매·영입·승리 조건은 원작 그대로입니다.
