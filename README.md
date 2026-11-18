@@ -18,18 +18,18 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-Blizzard-KO-v1.0.5.nds | 268,435,456 | 705be7af65f06aba5051ae6e521bab0a871523effa32243a660b32857818e969 |
-| InazumaEleven2-Fire-KO-v1.0.5.nds | 268,435,456 | 2278502a90f5bcf4284dcafb38adb7e6420822b6d94d7fb503714a5f812d8cb7 |
+| InazumaEleven2-Blizzard-KO-v1.0.5.nds | 268,435,456 | cd5bc49171aaba57b7f2bb6cd6ed335e34e97f5aeccbd8ae23bbf0b0e6f21646 |
+| InazumaEleven2-Fire-KO-v1.0.5.nds | 268,435,456 | 8c3ddd7dd45916751cc0b864e784413e2c73774b6b8d1b6cf0c0064247ef7ada |
 
-결과 SHA-1: 블리자드 `5a99297e3bc56a5dd899bbcd3c6579d363b93beb`, 파이어 `b03ac6dedf2556e9f4144736792692e80436c2af`
+결과 SHA-1: 블리자드 `2d1326617380b461aef1050d56efa9a189d12739`, 파이어 `10f2b77c0d130d04dbf8bb75642a1ecd6e8ef20a`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven2-KO-v1.0.5.zip | 21,601,943 | 5ec9dd9f4e1f7210b28d3cff0cc4e6f0bc0e2eb1324b77258197de6657045974 |
-| InazumaEleven2-Blizzard-KO-v1.0.5.bps | 20,754,891 | c58d55c51eac3fd0e5eceb3726e8dc199814b615387a6607024bc2a864d6ed56 |
-| InazumaEleven2-Fire-KO-v1.0.5.bps | 20,725,618 | f0e6d10d8a4d417b515ecfa29f5c6868e80e19c70c9f2fdc2a1ec0f3852f6697 |
+| InazumaEleven2-KO-v1.0.5.zip | 21,653,946 | ad5a22eb5cd5d7f24f337f031cbed26bee5e3cf2612c49c6f1904e827a39e02c |
+| InazumaEleven2-Blizzard-KO-v1.0.5.bps | 20,754,891 | 7781d7956f07db198fbb1c38c4bad5e2db187c8a6c9942a32001c01dcd7acdcd |
+| InazumaEleven2-Fire-KO-v1.0.5.bps | 20,782,962 | 295e934a3b353837d1cf750990259e3b54ed22936e72040ebf9e35b17c839964 |
 
 ZIP에는 두 버전의 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
 
